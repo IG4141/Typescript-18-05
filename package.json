@@ -1,0 +1,12 @@
+{
+  "name": "principios-solid-ts",
+  "version": "1.0.0",
+  "description": "Ejemplos TypeScript que corrigen violaciones de SRP, OCP y LSP",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "GitHub Copilot",
+  "license": "MIT"
+}
