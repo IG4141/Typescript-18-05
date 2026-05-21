@@ -1,6 +1,4 @@
-# Principios SOLID en TypeScript
-
-Ejemplos que muestran cómo corregir violaciones de los principios SRP, OCP y LSP.
+Ivo Giuliano Cappetto 
 
 ## Contenido
 
@@ -27,7 +25,3 @@ npm start
 - SRP: ninguna clase combina validación, persistencia y envío de correo.
 - OCP: `CalculadoraArea` no necesita modificarse para soportar nuevas formas.
 - LSP: `Rectangulo` y `Cuadrado` son sustituibles a través de la interfaz `Forma`.
-
-## Notas
-
-Este repositorio está listo para inicializarse como git y conectarse a un remoto de GitHub.
